@@ -5,3 +5,4 @@ streamlit
 pillow
 tensorflow
 mediapipe
+scikit-learn
